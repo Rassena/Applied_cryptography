@@ -1,1 +1,4 @@
-The idea of the Student Crypto is to give students the exciting knowledge about secret messages in a simple way. They should learn how important cryptography is in everyday life today and that it is not magic, but an application of mathematics. Many students very often ask themselves in mathematics lessons what it is used for. The Student Crypto gives an answer to this question in at least some of these cases. When mathematics and secrets are brought together, the exciting science of encryption, known as cryptology, is born.
+Wybrać sobie dowolny tekst logicznie brzmiący nie krótszy niż 100 znaków i
+zawierający słowo kryptografia. Tekst należy zaszyfrować, używając do obu
+rodzajów szyfru (o ile sposób szyfrowania to umożliwia) różnych haseł nie dłuższych
+niż 12 znaków.
