@@ -1,4 +1,1 @@
-Wybrać sobie dowolny tekst logicznie brzmiący nie krótszy niż 100 znaków i
-zawierający słowo kryptografia. Tekst należy zaszyfrować, używając do obu
-rodzajów szyfru (o ile sposób szyfrowania to umożliwia) różnych haseł nie dłuższych
-niż 12 znaków.
+One-time pads are "information-theoretically secure" in that the encrypted message (i.e., kryptografia) provides no information about the original message to a cryptanalyst (except the maximum possible length of the message). This is a very strong notion of security first developed during WWII by Claude Shannon and proved, mathematically, to be true for the one-time pad by Shannon at about the same time. His result was published in the Bell System Technical Journal in 1949. If properly used, one-time pads are secure in this sense even against adversaries with infinite computational power.
